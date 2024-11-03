@@ -1,5 +1,5 @@
 <html>  
 <body> 
-<% out.print("welcome to jsp  :::: Git-web hook push ") %>  
+<% out.print("welcome to jsp") %>  
 </body>  
 </html> 
